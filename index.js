@@ -7,7 +7,7 @@ class HelloWorld {
         {
           opcode: 'askwithtypepassword',
           blockType: Scratch.BlockType.COMMAND,
-          text: 'ask [TEXT] with password style'
+          text: 'ask [TEXT] with password style', 
           arguments: {
 TEXT: {
 type: Scratch.ArgumentType.STRING
